@@ -1,0 +1,8 @@
+{
+	"apiVersion": 2,
+	"title": "BetterDocs Sidebar",
+	"name": "betterdocs/sidebar",
+	"category": "betterdocs",
+	"description": "Display BetterDocs Sidebars With Different Layout Across Pages",
+	"textdomain": "betterdocs"
+}

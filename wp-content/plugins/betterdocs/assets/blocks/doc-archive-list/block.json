@@ -1,0 +1,8 @@
+{
+	"apiVersion":2,
+	"title":"BetterDocs Archive Doc List",
+	"name":"betterdocs/archive-doc-list",
+	"category":"betterdocs",
+	"description":"Display BetterDocs Breadcrumb In FSE Single Docs",
+	"textdomain":"betterdocs"
+}

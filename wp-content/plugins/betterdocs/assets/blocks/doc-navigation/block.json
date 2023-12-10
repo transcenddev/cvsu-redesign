@@ -1,0 +1,8 @@
+{
+	"apiVersion":2,
+	"title":"BetterDocs Doc Navigation",
+	"name":"betterdocs/doc-navigation",
+	"category":"betterdocs",
+	"description":"Display BetterDocs Reaction In FSE Single Docs",
+	"textdomain":"betterdocs"
+}

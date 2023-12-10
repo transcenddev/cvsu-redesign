@@ -1,0 +1,8 @@
+{
+	"apiVersion":2,
+	"title":"BetterDocs Single Doc Content",
+	"name":"betterdocs/single-doc-content",
+	"category":"betterdocs",
+	"description":"Display BetterDocs Breadcrumb In FSE Single Docs",
+	"textdomain":"betterdocs"
+}

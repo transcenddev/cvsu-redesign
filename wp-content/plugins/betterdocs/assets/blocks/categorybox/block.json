@@ -1,0 +1,11 @@
+{
+    "apiVersion": 2,
+    "title": "BetterDocs Category Box",
+    "name": "betterdocs/categorybox",
+    "category": "betterdocs",
+    "description": "Display your Knowledgebase in an amazing Box layout and style it any way you want.",
+    "textdomain": "betterdocs",
+    "editorStyle": [
+        "file:./default.css"
+    ]
+}

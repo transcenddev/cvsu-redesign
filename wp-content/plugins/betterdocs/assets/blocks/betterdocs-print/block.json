@@ -1,0 +1,8 @@
+{
+	"apiVersion":2,
+	"title":"BetterDocs Print",
+	"name":"betterdocs/betterdocs-print",
+	"category":"betterdocs",
+	"description":"Display BetterDocs Print In FSE Single Docs",
+	"textdomain":"betterdocs"
+}

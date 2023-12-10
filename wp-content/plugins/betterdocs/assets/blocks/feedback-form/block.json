@@ -1,0 +1,11 @@
+{
+	"apiVersion":2,
+	"title":"BetterDocs Feedback Form",
+	"name":"betterdocs/feedback-form",
+	"category":"betterdocs",
+	"description":"Display BetterDocs Reaction In FSE Single Docs",
+	"textdomain":"betterdocs",
+    "editorStyle": [
+        "file:./style-feedback-editor.css"
+    ]
+}

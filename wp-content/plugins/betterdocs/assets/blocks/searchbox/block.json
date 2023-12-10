@@ -1,0 +1,8 @@
+{
+  "apiVersion": 2,
+  "title": "BetterDocs Search Form",
+  "name": "betterdocs/searchbox",
+  "category": "betterdocs",
+  "description": "Showcase your Knowledgebase Live Search Box anywhere on your WordPress site & display instant results",
+  "textdomain": "betterdocs"
+}

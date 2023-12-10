@@ -1,0 +1,8 @@
+{
+	"apiVersion": 2,
+	"title":"BetterDocs Social Share",
+	"name":"betterdocs/social-share",
+	"category":"betterdocs",
+	"description":"Display BetterDocs Social Share In FSE Single Docs",
+	"textdomain":"betterdocs"
+}
